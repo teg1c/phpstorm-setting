@@ -1,0 +1,24 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="ToggleFullScreen" />
+  <action id="Tool_External Tools_php-cs">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
+</keymap>
